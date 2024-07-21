@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227049695673",
+    "project_id": "newchat-63294",
+    "storage_bucket": "newchat-63294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227049695673:android:48f3c3422b96a97fef2e68",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcle19Vx7Zd7vVHkSo9P5dlQvNqtesdcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
